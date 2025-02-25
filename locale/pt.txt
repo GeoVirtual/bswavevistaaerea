@@ -1,0 +1,13 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_126E4CFB_3555_5473_41C0_E7EB22A657AD.label = BS WAVE
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sem Título 9
